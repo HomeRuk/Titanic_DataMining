@@ -12,7 +12,9 @@
 > [**Project_Titanic.pdf**](https://github.com/HomeRuk/Titanic_DataMiningProject/blob/master/Project_Titanic.pdf)
 
 <img src="Project_Titanic/Project_Titanic-1.png" width="90%"/>
+
 ### Write with R Programming
+
 <img src="Project_Titanic/Project_Titanic-2.png" width="90%"/> 
 <img src="Project_Titanic/Project_Titanic-3.png" width="90%"/> 
 <img src="Project_Titanic/Project_Titanic-4.png" width="90%"/> 
