@@ -6,7 +6,7 @@
 
 ### Description
 
-> **ให้พยากรณ์ผู้รอดชีวิตจากผู้โดยสารเรือไททานิคจากชุดข้อมูลฝึกสอน 891 รายการ
+> **ให้พยากรณ์ผู้รอดชีวิตของผู้โดยสารเรือไททานิคจากชุดข้อมูลฝึกสอน 891 รายการ
 เพื่อนำผลไปทำนายชุดข้อมูลทดสอบ 418 รายการ**
 
 > [**Project_Titanic.pdf**](https://github.com/HomeRuk/Titanic_DataMiningProject/blob/master/Project_Titanic.pdf)
